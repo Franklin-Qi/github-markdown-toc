@@ -1,6 +1,10 @@
 gh-md-toc
 =========
 
+有时会生成空目录，可通过vscode 的插件生成目录：
+
+使用Ctrl+Shift+P快捷键，输入命令Markdown All in One: Create Table of Contents，回车。
+
 [![CI](https://github.com/ekalinin/github-markdown-toc/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/ekalinin/github-markdown-toc/actions/workflows/ci.yml)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ekalinin/github-markdown-toc)
 
